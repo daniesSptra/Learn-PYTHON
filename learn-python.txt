@@ -1,0 +1,4 @@
+Capaian selama belajar bahasa PYTHON
+-menguasai dasar-dasar Python
+-menguasai framework
+-menguasai oop python
