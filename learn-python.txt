@@ -2,3 +2,5 @@ Capaian selama belajar bahasa PYTHON
 -menguasai dasar-dasar Python
 -menguasai framework
 -menguasai oop python
+-membuat project sederhana
+-project lebih kompleks
